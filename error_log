@@ -1,0 +1,4 @@
+[28-Dec-2024 15:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/amartabl/gourmetburgers.amartable.com/response.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/amartabl/gourmetburgers.amartable.com/response.php on line 22
